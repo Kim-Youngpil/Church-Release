@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "release_date": "2026-10-14",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.5/AriulChurch_v1.0.5.zip",
-  "checksum_sha256": "1187dfce5fd695a114f73a8408e3323fd9579dfc8127b95afe8924531adb2a33",
-  "description": "1. 프로그램 자동 업데이트 다운로드 중단 후 재실행 시 [다운로드 재개] 버튼 및 진행률 자동 복원\n2. 최신 버전 변경 시 이전 임시 다운로드 파일 자동 정리 및 신규 다운로드로 초기화\n3. 외부 창 없이 프로그램 내부에서 실시간 업데이트 진행률(Progress) 표시 및 안전한 자동 재시작 지원",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.6/AriulChurch_v1.0.6.zip",
+  "checksum_sha256": "cef55d95d52edfec19fb6d0a5c09d94539e24ef6fa476f8ae1c0af955312564c",
+  "description": "1. '업데이트 확인 주기 설정' 메뉴를 '업데이트 확인' 메뉴로 일원화\n2. 업데이트 상태 확인, 자동 확인 주기 설정, 지금 다시 확인 기능을 단일 대화상자로 통합\n3. 최신 버전/새 버전/연결 오류 등 상태별 맞춤형 화면 및 실시간 재확인 지원",
   "mandatory": false
 }
