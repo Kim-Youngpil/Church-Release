@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-10-13",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.0/AriulChurch.zip",
+  "checksum_sha256": "",
+  "description": "1. [정식 릴리즈] 교회 행정 및 재정 관리 시스템 v1.0.0\n2. [기능] 교적, 재정, 예산, 결산 통합 지원\n3. [기능] 프로그램 자동 업데이트 및 라이선스 관리 탑재",
+  "mandatory": false
+}
