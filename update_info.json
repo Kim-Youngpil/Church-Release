@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release_date": "2026-10-14",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.1/AriulChurch_v1.0.1.zip",
-  "checksum_sha256": "61ae8eff550d984ec34cb50281dbd60b755df92296a770730432d09e3e84a498",
-  "description": "1. [수정] repo_mission.py 경로 보정 및 릴리즈 도구 인코딩 개선",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.2/AriulChurch_v1.0.2.zip",
+  "checksum_sha256": "ca4ffc8f92e726b09a2b20636616dceb208b9e17bc7d83647c8b91bd979bf557",
+  "description": "1. [보안/개선] 데모 버전에서 프로그램 업데이트 차단 및 안내 로직 적용",
   "mandatory": false
 }
