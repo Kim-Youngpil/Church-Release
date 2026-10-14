@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "release_date": "2026-10-14",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.4/AriulChurch_v1.0.4.zip",
-  "checksum_sha256": "ce6e12f51c7165d98e47989e57b1c872e985fc7e5110611fe5478db03185f32f",
-  "description": "1. 대표이미지 및 도장(직인) 사진 데이터 복원 및 BLOB/Base64 직렬화 안정성 보완\n2. 테이블 셀 이미지 미니 썸네일 표시 및 [보기 / 변경] 팝업 관리 기능 개선\n3. 테이블 셀 렌더링 시 QPixmap NameError 버그 해결",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.5/AriulChurch_v1.0.5.zip",
+  "checksum_sha256": "1187dfce5fd695a114f73a8408e3323fd9579dfc8127b95afe8924531adb2a33",
+  "description": "1. 프로그램 자동 업데이트 다운로드 중단 후 재실행 시 [다운로드 재개] 버튼 및 진행률 자동 복원\n2. 최신 버전 변경 시 이전 임시 다운로드 파일 자동 정리 및 신규 다운로드로 초기화\n3. 외부 창 없이 프로그램 내부에서 실시간 업데이트 진행률(Progress) 표시 및 안전한 자동 재시작 지원",
   "mandatory": false
 }
