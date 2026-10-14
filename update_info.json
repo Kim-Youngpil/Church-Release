@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "release_date": "2026-10-14",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.3/AriulChurch_v1.0.3.zip",
-  "checksum_sha256": "0f57e540ecd4ab1e90dc86137bc8816e1e8692653625566dfd814df2147a6927",
-  "description": "1. [개선] 업데이트 다운로드 후 안전한 자동 재실행(재시작) 보장\n2. [기능] 다운로드 일시정지 및 이어받기 지원\n3. [기능] 업데이트 확인 주기 설정(매일 1회, 매주, 매월 등) 추가",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.4/AriulChurch_v1.0.4.zip",
+  "checksum_sha256": "ce6e12f51c7165d98e47989e57b1c872e985fc7e5110611fe5478db03185f32f",
+  "description": "1. 대표이미지 및 도장(직인) 사진 데이터 복원 및 BLOB/Base64 직렬화 안정성 보완\n2. 테이블 셀 이미지 미니 썸네일 표시 및 [보기 / 변경] 팝업 관리 기능 개선\n3. 테이블 셀 렌더링 시 QPixmap NameError 버그 해결",
   "mandatory": false
 }
