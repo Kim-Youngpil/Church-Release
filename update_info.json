@@ -1,8 +1,8 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.19/Ariul_v1.0.19.zip",
-  "checksum_sha256": "fb052996096e8c2aa50b3bec72b0654514106e77fc6d7520710beb99f85bcd5c",
-  "description": "스왑 배치 스크립트 구문 오류 수정 및 독립 프로세스 안정화",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.20/Ariul_v1.0.20.zip",
+  "checksum_sha256": "389ea1fd73ee4c41796fd348a0c8b2115dad8a6e43914d2226a43d4dd6592841",
+  "description": "업데이트 테스트용 v1.0.20 릴리즈",
   "mandatory": false
 }
