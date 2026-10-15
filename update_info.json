@@ -1,8 +1,8 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.24/Ariul_v1.0.24.zip",
-  "checksum_sha256": "8c88e37447e8cbd2e221217e0d8429819e76db47238ce89e3d02ffdd21686ded",
-  "description": "업데이트 다운로드 캐시 및 단계별 UX 테스트 릴리즈",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.25/Ariul_v1.0.25.zip",
+  "checksum_sha256": "1d0fd603d97533e773b0d2f0872ff36e4149138104e793d2744d43be1e3a4359",
+  "description": "다운로드 캐시 오인식 방지 및 SHA-256 체크섬 검증 개선",
   "mandatory": false
 }
