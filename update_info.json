@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.13/Ariul_v1.0.13.zip",
-  "checksum_sha256": "355bc271ee3a8117c00b5b029bf2074ae84899c31e5c6242a58cfe876223b97d",
-  "description": "1. [로그 강화] update.log 및 update_swap_log.txt 실시간 상세 파일 로깅 추가\n2. [호환성 개선] ZIP 플랫 압축 구조 및 구버전 호환용 AriulChurch.exe 동봉\n3. [안전 교체] 임의 폴더 실행 시 1:1 정확한 덮어쓰기 및 Ariul.exe 우선 재실행 보장",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.14/Ariul_v1.0.14.zip",
+  "checksum_sha256": "5b35aca6583a9dc2b7bc61e1752b863777d3da206e5c65db859f1de33a9594bf",
+  "description": "1. [테스트] 플랫 압축 구조 및 로그 기반 자동 업데이트 최종 검증 (v1.0.14)",
   "mandatory": false
 }
