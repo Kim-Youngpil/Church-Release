@@ -1,8 +1,8 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.20/Ariul_v1.0.20.zip",
-  "checksum_sha256": "389ea1fd73ee4c41796fd348a0c8b2115dad8a6e43914d2226a43d4dd6592841",
-  "description": "업데이트 테스트용 v1.0.20 릴리즈",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.21/Ariul_v1.0.21.zip",
+  "checksum_sha256": "73888e5af467b085675ce2e05541dbe437c45a28719b23cb78772fd002f8698e",
+  "description": "스왑 프로세스 완전 무창화 및 find 블로킹 제거",
   "mandatory": false
 }
