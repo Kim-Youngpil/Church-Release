@@ -1,8 +1,8 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.23/Ariul_v1.0.23.zip",
-  "checksum_sha256": "5b8f2f10896b6c519eb40e134fe5ba1ae9e9e6358fe00ae05d7e76425d93ffe9",
-  "description": "다운로드 패키지 캐시 재활용 및 3단계 카운트다운 UX 개선",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.24/Ariul_v1.0.24.zip",
+  "checksum_sha256": "8c88e37447e8cbd2e221217e0d8429819e76db47238ce89e3d02ffdd21686ded",
+  "description": "업데이트 다운로드 캐시 및 단계별 UX 테스트 릴리즈",
   "mandatory": false
 }
