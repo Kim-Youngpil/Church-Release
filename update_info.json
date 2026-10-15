@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.9/AriulChurch_v1.0.9.zip",
-  "checksum_sha256": "18ce78ad9121fad583c425e709b09976f3f5e01938af0d08719327b09ed8496f",
-  "description": "1. [보안/실행] Windows SmartScreen 보안 차단 방지 런처(AriulChurch_실행.bat) 및 안내문 추가\\n2. [업데이트] 자동 업데이트 시 SmartScreen 백그라운드 차단 방지 및 안전한 재실행 로직 개선",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.10/AriulChurch_v1.0.10.zip",
+  "checksum_sha256": "02fb293efb3100780f0eed2265889fe02084079a23542cfa23dffa926f823418",
+  "description": "1. [테스트] 자동 업데이트 교체 및 안전 재실행 기능 검증 (v1.0.10)",
   "mandatory": false
 }
