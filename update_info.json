@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.15/Ariul_v1.0.15.zip",
-  "checksum_sha256": "fb505e02bb3a1ee5ec01b3c168e114a0eb0d177a1ea5990eef4e2f4cc2691e98",
-  "description": "1. [업데이트 안정화] 비동기 타이머 제거 및 스왑 스크립트 즉시 실행 보장\n2. [명칭 정돈] 배포 패키지 내 AriulChurch 잔재 파일 전면 제거 (Ariul.exe 순수 패키징)\n3. [자동 정리] 업데이트 적용 시 기존 폴더 내 AriulChurch 파일 자동 삭제 Clean-up 추가",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.16/Ariul_v1.0.16.zip",
+  "checksum_sha256": "a884518bd7d00e4f39fa1f3b47f8072ce1d03a80329294e7027611fbb608dac0",
+  "description": "1. [검증] 즉시 스왑 교체 및 자동 재실행 동작 검증 (v1.0.16)",
   "mandatory": false
 }
