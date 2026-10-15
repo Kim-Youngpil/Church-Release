@@ -1,8 +1,8 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.17/Ariul_v1.0.17.zip",
-  "checksum_sha256": "b807edb98dfbeb689eb70ff2aef5946f3cfb3e4d6a07f2ebebd5e5e2291f93ac",
-  "description": "업데이트 스왑 프로세스 독립 분리 및 백그라운드 대기 안정화, 정밀 로깅 적용",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.18/Ariul_v1.0.18.zip",
+  "checksum_sha256": "4ba41fc011b1dbe1fe49e134333e9407843a888861260643b57f7a9b7a0655b2",
+  "description": "업데이트 테스트용 v1.0.18 릴리즈",
   "mandatory": false
 }
