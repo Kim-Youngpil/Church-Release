@@ -1,8 +1,8 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "release_date": "2026-10-16",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.27/Ariul_v1.0.27.zip",
-  "checksum_sha256": "8b26f9858db6dc0586a267d7415a1751399a3484256c3f6ada2675a4bc59c211",
-  "description": "실행 파일(Ariul.exe) 제품 이름 및 버전 메타데이터 자동 주입 적용",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.28/Ariul_v1.0.28.zip",
+  "checksum_sha256": "5606bec5d15e17868ae4872a7b7dcbf96f0652aaa7193d27a0491c7d44e0a72e",
+  "description": "화면 전용 인쇄 및 미리보기 기능 개선, 열 분할 다중 페이지 인쇄, 툴바 및 메뉴 UI 개선",
   "mandatory": false
 }
