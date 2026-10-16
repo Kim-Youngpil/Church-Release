@@ -1,8 +1,8 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "release_date": "2026-10-16",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.26/Ariul_v1.0.26.zip",
-  "checksum_sha256": "a0d069ea79e9afc69860e338eb6f95bb43ea271f29cf2df2ba02c80144901c8c",
-  "description": "업데이트 다운로드 캐시 및 교체 재실행 검증 릴리즈",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.27/Ariul_v1.0.27.zip",
+  "checksum_sha256": "8b26f9858db6dc0586a267d7415a1751399a3484256c3f6ada2675a4bc59c211",
+  "description": "실행 파일(Ariul.exe) 제품 이름 및 버전 메타데이터 자동 주입 적용",
   "mandatory": false
 }
