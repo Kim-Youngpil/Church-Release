@@ -1,8 +1,8 @@
 {
-  "version": "1.0.25",
-  "release_date": "2026-10-15",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.25/Ariul_v1.0.25.zip",
-  "checksum_sha256": "1d0fd603d97533e773b0d2f0872ff36e4149138104e793d2744d43be1e3a4359",
-  "description": "다운로드 캐시 오인식 방지 및 SHA-256 체크섬 검증 개선",
+  "version": "1.0.26",
+  "release_date": "2026-10-16",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.26/Ariul_v1.0.26.zip",
+  "checksum_sha256": "a0d069ea79e9afc69860e338eb6f95bb43ea271f29cf2df2ba02c80144901c8c",
+  "description": "업데이트 다운로드 캐시 및 교체 재실행 검증 릴리즈",
   "mandatory": false
 }
