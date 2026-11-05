@@ -1,8 +1,8 @@
 {
-  "version": "1.0.28",
-  "release_date": "2026-10-16",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.28/Ariul_v1.0.28.zip",
-  "checksum_sha256": "5606bec5d15e17868ae4872a7b7dcbf96f0652aaa7193d27a0491c7d44e0a72e",
-  "description": "화면 전용 인쇄 및 미리보기 기능 개선, 열 분할 다중 페이지 인쇄, 툴바 및 메뉴 UI 개선",
+  "version": "1.0.29",
+  "release_date": "2026-11-05",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.29/Ariul_v1.0.29.zip",
+  "checksum_sha256": "3161f9cb8c52e03079c87921da6fa260a4047f4a524e0ce8cbb5a8c9f04dd6cb",
+  "description": "1. [개선] 롤링 예산 페이지 단독 실행 지원 (sys.path 자동 등록)\n2. [UI] 트리 레벨 수작업 변경 시 '분류레벨:' 텍스트 색상 유지 및 슬라이더 외형 규격 보존\n3. [UI] '주기:' 슬라이더 외형을 '분류레벨:' 슬라이더와 동일한 스타일로 통일\n4. [DB/샘플] 1년치(2026년) 가상 고품질 샘플 데이터베이스(sample_church.db) 구축 및 생성 도구 최신화 (교적 50명, 52주 수입 4,098건, 지출 297건, 2026년 예산 86개 과목, 공과금/선교/대출/약정 연동)",
   "mandatory": false
 }
