@@ -1,8 +1,8 @@
 {
-  "version": "1.0.29",
-  "release_date": "2026-11-05",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.29/Ariul_v1.0.29.zip",
-  "checksum_sha256": "3161f9cb8c52e03079c87921da6fa260a4047f4a524e0ce8cbb5a8c9f04dd6cb",
-  "description": "1. [개선] 롤링 예산 페이지 단독 실행 지원 (sys.path 자동 등록)\n2. [UI] 트리 레벨 수작업 변경 시 '분류레벨:' 텍스트 색상 유지 및 슬라이더 외형 규격 보존\n3. [UI] '주기:' 슬라이더 외형을 '분류레벨:' 슬라이더와 동일한 스타일로 통일\n4. [DB/샘플] 1년치(2026년) 가상 고품질 샘플 데이터베이스(sample_church.db) 구축 및 생성 도구 최신화 (교적 50명, 52주 수입 4,098건, 지출 297건, 2026년 예산 86개 과목, 공과금/선교/대출/약정 연동)",
+  "version": "1.0.30",
+  "release_date": "2026-11-16",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.30/Ariul_v1.0.30.zip",
+  "checksum_sha256": "74f0e478a56bb9a28a725ab474838720a7a3d5a1c6bc25b7675c9779f7897bc9",
+  "description": "1. [기능] 정기 지출 ↔ 재정 지출 매칭 마법사 및 비고(형식) 빌더 추가\n2. [기능] 재정 지출 → 정기 지출 일괄 연결 및 다중 연결 순환 탐색 바(이전/다음 F4) 구현\n3. [개선] 매칭 테이블 개별 셀 선택/합계 표시, N:1 그룹 합산 및 보기 모드(주간↔월간) 매핑 지원\n4. [수정] 연결 셀 변경 시 이전 셀 재계산, 콤보박스 UserRole 저장 순서 및 전표/결산/UI 라이프사이클 안정화",
   "mandatory": false
 }
