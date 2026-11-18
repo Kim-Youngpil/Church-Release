@@ -1,8 +1,8 @@
 {
-  "version": "1.0.30",
-  "release_date": "2026-11-16",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.30/Ariul_v1.0.30.zip",
-  "checksum_sha256": "74f0e478a56bb9a28a725ab474838720a7a3d5a1c6bc25b7675c9779f7897bc9",
-  "description": "1. [기능] 정기 지출 ↔ 재정 지출 매칭 마법사 및 비고(형식) 빌더 추가\n2. [기능] 재정 지출 → 정기 지출 일괄 연결 및 다중 연결 순환 탐색 바(이전/다음 F4) 구현\n3. [개선] 매칭 테이블 개별 셀 선택/합계 표시, N:1 그룹 합산 및 보기 모드(주간↔월간) 매핑 지원\n4. [수정] 연결 셀 변경 시 이전 셀 재계산, 콤보박스 UserRole 저장 순서 및 전표/결산/UI 라이프사이클 안정화",
+  "version": "1.0.31",
+  "release_date": "2026-11-18",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.31/Ariul_v1.0.31.zip",
+  "checksum_sha256": "4a5532ee414f328b33efedfdb95ac0c4443401bfae0edf5c3f94e4bf44b825d9",
+  "description": "1. [성능] 차입금 정보 및 테이블 스크롤/렌더링 성능 최적화\n2. [수정] 신규 Windows 환경(VM 등)에서 업데이트 서버 SSL 인증서 검증 실패 오류 수정 (certifi CA 병합)\n3. [수정] 결산 페이지 툴바 라이프사이클 가드 및 회귀 테스트 추가",
   "mandatory": false
 }
