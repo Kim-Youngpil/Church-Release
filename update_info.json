@@ -1,8 +1,8 @@
 {
-  "version": "1.0.33",
-  "release_date": "2026-11-19",
-  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.33/Ariul_v1.0.33.zip",
-  "checksum_sha256": "c43259cfad9cf5d0c1ea6a5abdf2f2a37391d6227a01f222e17f104faec0bbdb",
-  "description": "1. [개선] 초기 샘플 DB(sample_church.db) 교회명·소재지·선교대상지명 및 프로그램 타이틀 기본값 정비\n2. [개선] 라이선스 미등록(데모) 상태 로그인창 및 윈도우 타이틀 표시 개선",
+  "version": "1.0.34",
+  "release_date": "2026-11-20",
+  "download_url": "https://github.com/Kim-Youngpil/Church-Release/releases/download/v1.0.34/Ariul_v1.0.34.zip",
+  "checksum_sha256": "0902175d20c827adcd0cb3c2150c4a89f1dadb372125ffa092d06542d439a69c",
+  "description": "1. [기능] 프린트 양식 편집기 개선: 도킹 가능한 디자인·치환키 도우미(정렬/필터/드래그&드롭)·실시간 인쇄 미리보기(실제 DB 영수증 치환) 및 여백·기본값 복원 추가\n2. [기능] 기부금 영수증(*) 신규 행 직접 입력/저장 및 영수증 발급·프린트 양식 편집 팝업 메뉴·GUI/데이터 Undo/Redo 지원\n3. [수정] 최초 팝업 실행 시 메인 윈도우 깜빡임 및 종료 지연 해소, 프린트 편집기 로딩 최적화 및 perm_db별 draft DB 격리",
   "mandatory": false
 }
